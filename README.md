@@ -8,6 +8,7 @@ Attendance System: Recognize faces using a webcam and log recognized individuals
 
 <h3>Setup Instructions</h3>
 1. Download the Project: Download the ZIP file containing the project files (Python scripts and sample images).
+
 2. Extract the ZIP File: Extract the contents to your desired location. The folder will include:
 
 - basic.py
