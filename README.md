@@ -2,6 +2,7 @@
 This project demonstrates a real-time facial recognition system using Python, numpy, and face_recognition. 
 It identifies faces from webcam input and matches them against provided sample images or a custom attendance folder.
 <br>
+Only the 2 python files will be on display, if you want the image folders as well, download the zip.
 
 <h2>Features</h2>
 Simple Demonstration: Match faces from two provided sample images.
@@ -22,5 +23,3 @@ Attendance System: Recognize faces using a webcam and log recognized individuals
 
 
 ps: make sure you have numpy and face_recognition installed, you may need to install an older version of numpy
-
-Only the 2 python files will be on display, if you want the image folders as well, download the zip.
