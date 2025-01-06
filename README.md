@@ -17,3 +17,5 @@ Attendance System: Recognize faces using a webcam and log recognized individuals
 - ImagesAttendance folder (for custom attendance use)
 
 3. Add Your Photo (for attendance system): Place a clear photo of yourself in the attendance_images folder. This is required to log your presence during the webcam-based demonstration.
+
+*ps: make sure you have numpy and face_recognition installed, you may need to install an older version of numpy*
