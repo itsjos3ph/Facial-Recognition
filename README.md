@@ -5,16 +5,18 @@ It identifies faces from webcam input and matches them against provided sample i
 <h2>Features</h2>
 Simple Demonstration: Match faces from two provided sample images.
 Attendance System: Recognize faces using a webcam and log recognized individuals based on a custom image folder.
-Setup Instructions
-Download the Project:
+
+<h3>Setup Instructions</h3>
+1. Download the Project:
 Download the ZIP file containing the project files (Python scripts and sample images).
 
-Extract the ZIP File:
+2. Extract the ZIP File:
 Extract the contents to your desired location. The folder will include:
 
-basic.py
-attendance_project.py
-sample_images folder (contains two sample images)
-attendance_images folder (for custom attendance use)
-Add Your Photo (for attendance system):
+- basic.py
+- attendance_project.py
+- ImagesBasic folder (contains two sample images)
+- ImagesAttendance folder (for custom attendance use)
+
+3. Add Your Photo (for attendance system):
 Place a clear photo of yourself in the attendance_images folder. This is required to log your presence during the webcam-based demonstration.
