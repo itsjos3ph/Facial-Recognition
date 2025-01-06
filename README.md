@@ -10,14 +10,14 @@ Attendance System: Recognize faces using a webcam and log recognized individuals
 
 <h3>Setup Instructions</h3>
 1. Download the Project: Download the ZIP file containing the project files (Python scripts and sample images).
-<br>
+
 2. Extract the ZIP File: Extract the contents to your desired location. The folder will include:
-<br>
+
 - basic.py
 - attendance_project.py
 - ImagesBasic folder (contains two sample images)
 - ImagesAttendance folder (for custom attendance use)
-<br>
+
 3. Add Your Photo (for attendance system): Place a clear photo of yourself in the attendance_images folder. This is required to log your presence during the webcam-based demonstration.
-<br>
+
 *ps: make sure you have numpy and face_recognition installed, you may need to install an older version of numpy*
